@@ -4,7 +4,7 @@ Desarrollador web frontend</h1>
   
 </div>
 <div
-<img align="right" width=300px alt="guitar" src="class="tenor-gif-embed" data-postid="15041028" data-share-method="host" data-aspect-ratio="1.17647" data-width="100%"><a href="https://tenor.com/view/head-bang-acdc-slayer-rock-on-beavis-and-butt-head-gif-15041028">Head Bang Acdc Sticker</a>from <a href="https://tenor.com/search/head+bang-stickers">Head Bang Stickers</a>
+<img align="right" width=300px alt="guitar" class="tenor-gif-embed" data-postid="15041028" data-share-method="host" data-aspect-ratio="1.17647" data-width="100%"><a href="https://tenor.com/view/head-bang-acdc-slayer-rock-on-beavis-and-butt-head-gif-15041028">Head Bang Acdc Sticker</a>from <a href="https://tenor.com/search/head+bang-stickers">Head Bang Stickers</a>
 </div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" />
 
 [![portafolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]("")
