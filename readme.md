@@ -4,7 +4,7 @@
   
 </div>
 <img align="right" width=200px height=200px alt="guitar" src="https://media.tenor.com/slfzaS4uxLIAAAAi/head-bang-acdc.gif" />
-<img align="left" width=150px height=150px alt="guitar" src="https://media.tenor.com/slfzaS4uxLIAAAAi/head-bang-acdc.gif" />
+<img align="left" width=200px height=150px alt="guitar" src="https://media.tenor.com/slfzaS4uxLIAAAAi/head-bang-acdc.gif" />
 
 [![portafolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]("")
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/amayajp)
