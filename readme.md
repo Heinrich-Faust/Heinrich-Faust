@@ -3,7 +3,7 @@
 Desarrollador web frontend</h1>
   
 </div>
-<img align="right" width=300px alt="guitar" src="https://tenor.com/bbg1o.gif" />
+<img align="right" width=300px alt="guitar" src="[https://tenor.com/bbg1o.gif](https://tenor.com/bbg1o.gif)" />
 
 [![portafolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]("")
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/amayajp)
