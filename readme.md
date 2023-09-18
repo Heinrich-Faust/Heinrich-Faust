@@ -12,7 +12,7 @@ Desarrollador web frontend</h1>
 
 ## Contacto
 <h5>TELEFONO: 3209676856</h5>
-<h5>CORREO: neyry007@gmail.com</h5>
+<h5>CORREO: juan.amaya.69@outlook.es</h5>
 
 
 
