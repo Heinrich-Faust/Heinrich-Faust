@@ -26,13 +26,13 @@ En mi mundo, el código es mi guitarra y el navegador, mi escenario. ¡Vamos a r
 
 Mis habilidades incluyen:
 
-✅ HTML5, CSS3, JavaScript
-✅ Frameworks Front-End (como React o Vue)
-✅ Responsive Design
-✅ Optimización de rendimiento
-✅ Colaboración en equipos ágiles
+✅ HTML5, CSS3, JavaScript <br>
+✅ Frameworks Front-End (React) <br>
+✅ Responsive Design <br>
+✅ Optimización de rendimiento <br>
+✅ Colaboración en equipos ágiles <br>
 
-<br>
+
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
 <p align="center"> 
