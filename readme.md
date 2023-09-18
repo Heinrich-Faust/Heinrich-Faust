@@ -1,6 +1,6 @@
 <div align="center">
-<h1 align="center">Hola, soy Juan Pablo Amaya 🤘🏻<br/>
-Desarrollador web frontend</h1>
+<h1 align="center">🤘🏻 Hola, soy Juan Pablo Amaya 🤘🏻<br/>
+🚀 Desarrollador web frontend 🚀</h1>
   
 </div>
 
