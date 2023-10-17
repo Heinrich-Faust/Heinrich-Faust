@@ -19,7 +19,7 @@
 
 ## Sobre mi
 
- 🚀 ¡Hola! Soy Juan Pablo Amaya,🚀 un apasionado desarrollador Front-End con 4 meses de experiencia y una sed insaciable por el aprendizaje continuo. 💡💻
+ 🚀 ¡Hola! Soy Juan Pablo Amaya,🚀 un apasionado desarrollador Front-End con experiencia y una sed insaciable por el aprendizaje continuo. 💡💻
 
 Mi pasión es crear experiencias digitales que no solo sean visualmente atractivas, sino también funcionales y de alto rendimiento. Siempre estoy buscando la mejor manera de llevar a cabo proyectos que desafíen mis habilidades y me permitan aprender y crecer.
 
