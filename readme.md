@@ -13,7 +13,7 @@
 
 ## Contacto
 <h5>TELEFONO: 3209676856</h5>
-<h5>CORREO: juan.amaya.69@outlook.es</h5>
+<h5>CORREO: juanpamayadev@gmail.com</h5>
 
 
 
