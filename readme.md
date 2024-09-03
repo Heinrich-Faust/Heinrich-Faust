@@ -7,7 +7,7 @@
 <img align="left" width=200px height=190px alt="guitar" src="https://media.tenor.com/slfzaS4uxLIAAAAi/head-bang-acdc.gif" />
 
 [![portafolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]("")
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/amayajp)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amayajp)
 [![Torre](https://img.shields.io/badge/my_torre-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://torre.ai/juanpabloamaya)
 
 
