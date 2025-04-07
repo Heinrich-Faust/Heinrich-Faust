@@ -17,25 +17,48 @@
 
 
 
-## Sobre mi
+## Sobre mí
 
- 🚀 ¡Hola! Soy Juan Pablo Amaya,🚀 un apasionado desarrollador Front-End con experiencia y una sed insaciable por el aprendizaje continuo. 💡💻
+🚀 ¡Hola! Soy **Juan Pablo Amaya**, un desarrollador **Front-End** con experiencia, creatividad y una sed insaciable por el aprendizaje continuo. 💡💻
 
-Mi pasión es crear experiencias digitales que no solo sean visualmente atractivas, sino también funcionales y de alto rendimiento. Siempre estoy buscando la mejor manera de llevar a cabo proyectos que desafíen mis habilidades y me permitan aprender y crecer.
+Me apasiona construir experiencias digitales que no solo sean visualmente atractivas, sino también intuitivas, accesibles y de alto rendimiento. Siempre estoy buscando proyectos que desafíen mis habilidades y me permitan seguir creciendo profesionalmente.
 
-En mi mundo, el código es mi guitarra y el navegador, mi escenario. ¡Vamos a rockanrollear en el universo web, creando sitios web y aplicaciones que destaquen! 🎸🎶
+En mi mundo, **el código es mi guitarra y el navegador, mi escenario**. ¡Vamos a rockear en el universo web creando sitios y aplicaciones que realmente destaquen! 🎸🎶
 
-Mis habilidades incluyen:
+---
 
-✅ HTML5, CSS3, JavaScript <br>
-✅ Frameworks Front-End (React) <br>
-✅ Responsive Design <br>
-✅ Optimización de rendimiento <br>
-✅ Colaboración en equipos ágiles <br>
+## 🛠️ Habilidades técnicas
 
+✅ HTML5, CSS3, JavaScript (ES6+)  
+✅ React: hooks, componentes reutilizables y manejo de estado  
+✅ TypeScript para desarrollo más robusto  
+✅ Tailwind CSS, Bootstrap y diseño mobile first  
+✅ Consumo de APIs REST y manejo de JSON  
+✅ Optimización de rendimiento (Web Vitals, Lazy Loading, Lighthouse)  
+✅ Control de versiones con Git & GitHub  
+✅ Testing básico con Jest y React Testing Library  
+✅ Automatización con herramientas como Vite y Webpack  
+✅ Diseño UI/UX centrado en el usuario (Figma, Adobe XD)  
 
+---
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
+## 🤝 Habilidades blandas
+
+✅ Comunicación efectiva y trabajo en equipo  
+✅ Metodologías ágiles (Scrum / Kanban)  
+✅ Resolución de problemas y pensamiento lógico  
+✅ Adaptabilidad, enfoque al detalle y gestión del tiempo
+
+---
+
+## 📊 Otros conocimientos
+
+✅ Power Platform: Power BI y Power Apps  
+✅ Inglés técnico para documentación y colaboración internacional  
+✅ Notion para organización y gestión de proyectos  
+✅ GitHub Actions (básico) para CI/CD
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Fullstack & Low Code Development
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
