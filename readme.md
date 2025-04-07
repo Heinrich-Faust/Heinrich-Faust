@@ -19,7 +19,7 @@
 
 ## Sobre mí
 
-🚀 ¡Hola! Soy **Juan Pablo Amaya**, un desarrollador **Front-End** con experiencia, creatividad y una sed insaciable por el aprendizaje continuo. 💡💻
+🚀 ¡Hola! Soy **Juan Pablo Amaya**, un desarrollador **Full-Stack** con experiencia, creatividad y una sed insaciable por el aprendizaje continuo. 💡💻
 
 Me apasiona construir experiencias digitales que no solo sean visualmente atractivas, sino también intuitivas, accesibles y de alto rendimiento. Siempre estoy buscando proyectos que desafíen mis habilidades y me permitan seguir creciendo profesionalmente.
 
